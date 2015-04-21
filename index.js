@@ -1,3 +1,6 @@
+/**
+ * Copyright 2015 Urban Airship and Contributors
+ */
 var deepEqual = require('deep-equal')
   , through = require('through')
 
