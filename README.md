@@ -2,6 +2,9 @@
 
 A stream that prevents consecutive duplicate emissions.
 
+[![Build Status](http://img.shields.io/travis/urbanairship/dedupe-stream/master.svg?style=flat)](https://travis-ci.org/urbanairship/dedupe-stream)
+[![npm install](http://img.shields.io/npm/dm/dedupe-stream.svg?style=flat)](https://www.npmjs.org/package/dedupe-stream)
+
 ## Example
 
 ```javascript
